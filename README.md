@@ -44,7 +44,7 @@ An AI-powered web application that uses machine learning to detect and classify 
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/fake-news-detector.git
+git clone https://github.com/devvsin/fake-news-detector.git
 cd fake-news-detector
 ```
 
@@ -62,10 +62,8 @@ pip install -r requirements.txt
 ### Step 4: Download Dataset
 **⚠️ Important: The dataset is not included in this repository due to size limitations.**
 
-You'll need to download a fake news dataset. Recommended sources:
-- **[Kaggle Fake News Dataset](https://www.kaggle.com/c/fake-news/data)** (Most popular)
-- **[FakeNewsNet Dataset](https://github.com/KaiDMML/FakeNewsNet)**
-- **[LIAR Dataset](https://sites.cs.ucsb.edu/~william/data/liar_dataset.zip)**
+You'll need to download a fake news dataset.
+- **[Kaggle Fake News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)** 
 
 **Setup Instructions:**
 1. Create a `data/` folder in your project directory
@@ -244,12 +242,6 @@ This tool is for educational and research purposes. While the model shows good p
 - scikit-learn for machine learning tools
 - Contributors and testers
 
-## 📞 Contact
 
-**Your Name** - your.email@example.com
-
-**Project Link**: https://github.com/yourusername/fake-news-detector
-
----
 
 ⭐ **If you found this project helpful, please give it a star!** ⭐
