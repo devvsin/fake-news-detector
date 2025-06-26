@@ -1,0 +1,24 @@
+# Model files (too large for GitHub)
+model/
+*.pkl
+
+# Data files (too large for GitHub)
+data/
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
