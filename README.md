@@ -14,16 +14,6 @@ An AI-powered web application that uses machine learning to detect and classify 
 - **Confidence Metrics**: Visual probability breakdowns and confidence levels
 - **Debugging Tools**: See exactly how the AI makes its decisions
 
-## 🎯 Demo
-
-### Main Interface
-*[Add screenshot of your main app interface here]*
-
-### Analysis Results
-*[Add screenshot of prediction results here]*
-
-### Text Analysis Details
-*[Add screenshot of the debugging/analysis section here]*
 
 ## 📋 Table of Contents
 
